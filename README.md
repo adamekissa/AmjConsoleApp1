@@ -1,0 +1,1 @@
+AmjConsoleApp1
